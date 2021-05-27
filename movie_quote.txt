@@ -1,0 +1,9 @@
+'''
+Add your favourite movie or show code as:
+quote    movie_name (year/season)
+
+One for each line,example are the 7th, 8th 9th line.
+'''
+“Keep the change, ya filthy animal.” – Gangster Johnny    Home Alone (1990)
+“Keeping my face pinched in sorrow for two hours straight's a real chore.” — Dexter Morgan    Dexter (Season 1)
+“Yeah, we compromised. Sometimes in ways that made us not sleep so well. But we did it so the people could be free. This isn't freedom, this is fear.”    Captain America: The Winter Soldier (2014)
