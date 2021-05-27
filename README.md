@@ -6,5 +6,5 @@
 ### @ at me with [#quote](https://twitter.com/search?q=%23quote&src=typed_query)
 
 ## Wanna add your Favourite Movie/Show quote in the database??
-### Add it in the movie_quote.txt file
+### Add it in the [movie_quote.txt](https://github.com/Architrixs/The-Quote-Bot/blob/main/movie_quote.txt) file
 ### Just follow the instruction at the top of the file, and add as many as you like.
